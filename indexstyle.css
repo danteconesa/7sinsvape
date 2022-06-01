@@ -1,0 +1,30 @@
+body{
+    background: url(media/fondo.jpg);
+}
+
+header{
+    background: url(media/banner1.jpg);
+    background-size: cover;
+}
+
+.text-end{
+    margin: 0 auto;
+}
+
+aside{
+    border-style: solid;
+}
+
+.miclase{
+    color:aqua;
+    text-align: center;
+
+}
+
+article{
+    border-style: solid;
+}
+
+footer{
+    background-color: gray;
+}

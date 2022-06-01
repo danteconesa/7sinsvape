@@ -1,0 +1,24 @@
+body{
+    background: url(media/fondo.jpg);
+}
+
+header{
+    background: url(media/banner2.jpeg);
+    background-size: cover;
+}
+
+.text-end{
+    margin: 0 auto;
+}
+
+aside{
+    border-style: solid;
+}
+
+article{
+    border-style: solid;
+}
+
+footer{
+    background-color: gray;
+}
